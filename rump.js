@@ -25,6 +25,6 @@ function walk(node) {
 function handleText(textNode) 
 {
 	var v = textNode.nodeValue;
-	v = v.replace(/(\B(er|ER|eR|Er)\b)(?!([?] I hardly know 'er))/g, "er (I hardly know 'er)");
+	v = v.replace(/(\B(Trump)\b)/g, "Rump");
 	textNode.nodeValue = v;
 }

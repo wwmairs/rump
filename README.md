@@ -1,8 +1,8 @@
-## Hardly know 'er extension
+## Resident Rump
 
-Because I can't get enough of this stupid joke, here's a chrome extension that will add it to web pages.
+Tired of hearing about a doofus in office? Me too.  Here's a chrome extension to counter hate with (bad) humor).
 
-Many thanks to my boy Michael Guida, and specifically [this repo](https://github.com/mguida22/canada-eh), for like 80% of the code, basically.
+I basically stole ~99% of my friend Adam's code from his chrome extension.  Oops.
 
 [Add it to Chrome!](https://chrome.google.com/webstore/detail/hardly-know-er/ehpngihhomcecdoofjllacncnkhhihlh)
 
