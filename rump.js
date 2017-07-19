@@ -25,6 +25,6 @@ function walk(node) {
 function handleText(textNode) 
 {
 	var v = textNode.nodeValue;
-	v = v.replace(/(\B(Trump)\b)/g, "Rump");
+	v = v.replace("Trump", "Rump");
 	textNode.nodeValue = v;
 }
